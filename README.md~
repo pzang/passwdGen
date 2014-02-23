@@ -1,7 +1,7 @@
 passwdGen
 =========
 
-A simple Password generator, random generates alpha-numeric password in defined length and save a file to a path.
+A simple Password generator, random generates alpha-numeric password.
 
 ## how to build: 
 
